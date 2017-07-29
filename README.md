@@ -29,3 +29,10 @@ Follow the prompts to finish this process.
 chmod a+x ./update.sh
 ./update.sh
 ```
+
+
+#### Reference
+
+https://help.github.com/articles/duplicating-a-repository/
+https://gist.github.com/niksumeiko/8972566
+https://hub.github.com/

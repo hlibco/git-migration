@@ -9,8 +9,8 @@ echo '------------------------------------------ \n'
 
 # Config
 root=~/git
-mirror="git@github.com:cleanifyinc"
-criteria="cleanify"
+mirror="git@github.com:username"
+criteria="username"
 
 # Prompts
 read -p "What is your work folder? (${root}) " input_root
